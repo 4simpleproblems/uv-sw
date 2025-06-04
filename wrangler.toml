@@ -1,0 +1,5 @@
+name = "uv-sw"
+type = "javascript"
+account_id = "020dcecdadc641d105483e77294dfe42"  # (already saved from you earlier)
+compatibility_date = "2025-06-04"
+main = "uv.sw.js"
